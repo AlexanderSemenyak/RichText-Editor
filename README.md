@@ -1,3 +1,5 @@
+origin: https://github.com/Abneed/RichText-Editor
+
 # RichText-Editor
 
 RichText Editor es un proyecto de código abierto con licencia de MIT.
